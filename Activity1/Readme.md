@@ -57,7 +57,7 @@ Scored: 200
 
 Need 201 to win
 
-**Question 2**
+**Question 3**
 Create a class “Customer”add the following private members
 
 | Data Type | Field Name |
@@ -81,3 +81,32 @@ Name: Ravi
 Address: Pune
 
 Mobile: 9999888666
+
+**Question 4**
+Create a class “Company” add the following private members
+
+| Data Type | Field Name |
+|-----------|------------|
+| String    | name       |
+| String    | employees  |
+| String    | teamlead   |
+
+Create setter and getter methods.
+
+Create another class “CompanyMain” and write the main method to test the above class. Use String.split().
+
+**Sample Input:**
+
+Enter the company name:L&T Technology Services
+
+Enter the employees:Ravi,Ram,Krishna,Shakir,Thomas
+
+Enter TeamLead:Thomas
+
+**Sample output:**
+
+Name: L&T Technology Services
+
+Employees: Ravi,Ram,Krishna,Shakir,Thomas
+
+Lead: Thomas
