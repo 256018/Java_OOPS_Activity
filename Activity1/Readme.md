@@ -1,5 +1,5 @@
 **Question 1**
-Create a class “Employee”add the following private members
+Create a class “Employee” add the following private members
 | Data Type | Field Name |
 |-----------|------------|
 | String    | name       |
@@ -8,7 +8,7 @@ Create a class “Employee”add the following private members
 
 Create setter and getter methods
 
-Create another class “EmployeeMain”and write the main method to test the above class
+Create another class “EmployeeMain” and write the main method to test the above class
 
 **Sample Input:**
 
@@ -29,7 +29,7 @@ Address: Pune
 Mobile: 9998887771
 
 **Question 2**
-Create a class “Innings”add the following private members
+Create a class “Innings” add the following private members
 
 | Data Type | Field Name   |
 |-----------|--------------|
@@ -41,7 +41,7 @@ Create setter and getter methods.
 
 Create the displayInningsDetails()method in the Innings class display it.
 
-Create another class “InningsMain”and write the main method to test the above class
+Create another class “InningsMain” and write the main method to test the above class
 **Sample Input:**
 
 Enter the team name:Australia
@@ -58,7 +58,7 @@ Scored: 200
 Need 201 to win
 
 **Question 3**
-Create a class “Customer”add the following private members
+Create a class “Customer” add the following private members
 
 | Data Type | Field Name |
 |-----------|------------|
@@ -68,7 +68,7 @@ Create a class “Customer”add the following private members
 
 Create setter and getter methods
 
-Create another class “CustomerMain”and write the main method to test the above class. Use String.split().
+Create another class “CustomerMain” and write the main method to test the above class. Use String.split().
 
 **Sample Input:**
 
@@ -128,9 +128,9 @@ Sample Input:Enter the name:Ravi
 
 Enter Address:Pune
 
-Enter Mobile:9998887771S
+Enter Mobile:9998887771
 
-ample output:
+Sample output:
 
 Employee Details
 
