@@ -27,3 +27,32 @@ Name: Ravi
 Address: Pune
 
 Mobile: 9998887771
+
+**Question 2**
+Create a class “Innings”add the following private members
+
+| Data Type | Field Name   |
+|-----------|--------------|
+| String    | teamname     |
+| String    | inningsaname |
+| int       | run          |
+
+Create setter and getter methods. 
+
+Create the displayInningsDetails()method in the Innings class display it.
+
+Create another class “InningsMain”and write the main method to test the above class
+**Sample Input:**
+
+Enter the team name:Australia
+
+Enter session:
+
+FirstEnter runs:200
+**Sample output**
+
+Name: Australia
+
+Scored: 200
+
+Need 201 to win
