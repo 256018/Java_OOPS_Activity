@@ -1,4 +1,4 @@
-Question 1
+**Question 1**
 Create a class “Employee”add the following private members
 | Data Type | Field Name |
 |-----------|------------|
@@ -10,7 +10,7 @@ Create setter and getter methods
 
 Create another class “EmployeeMain”and write the main method to test the above class
 
-Sample Input:
+**Sample Input:**
 
 Enter the name:Ravi
 
@@ -18,7 +18,7 @@ Enter Address:Pune
 
 Enter Mobile:9998887771
 
-Sample output:
+**Sample output:**
 
 Employee Details
 
