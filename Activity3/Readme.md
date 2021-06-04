@@ -104,3 +104,25 @@ Need 144 runs in 120 balls
 
 Required Runrate: 7.20
 
+**Sample Input**:
+
+Enter the match format
+
+1.ODI
+
+2.T20
+
+3.Test
+
+2
+Enter the Current score 120
+
+Enter the current Over 15
+
+Enter the Target Score 170
+
+**Sample output:**
+
+Need 50 runs in 30 balls
+
+Required Runrate: 10.00
