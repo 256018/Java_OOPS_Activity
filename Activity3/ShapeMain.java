@@ -2,6 +2,14 @@ import java.util.*;
 abstract class Shape
 {
     int value;
+    public void setvalue(int value)
+    {
+        this.value = value;
+    }
+    public int getvalue()
+    {
+        return this.value;
+    }
     abstract public void calculateArea(int value);
 }
 class Circle extends Shape
