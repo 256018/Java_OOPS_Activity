@@ -1,5 +1,3 @@
 # Java_OOPS_Activity
 
-To do
-
-Activity - Inheritance
+![alt text](https://github.com/[256018]/[Java_OOPS_Activity]/oops.jpg?raw=true
