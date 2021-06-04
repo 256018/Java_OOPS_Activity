@@ -90,3 +90,73 @@ CC:1960
 Audio System:Beats
 
 Number of Doors:5
+
+
+**Question 2**
+Create a class HotelRoom 
+
+Include the following protected data members / attributes:
+
+hotelName –of type String
+
+numberOfSqFeet –of type Integer
+
+hasTV -of type Boolean
+
+hasWifi –of type Boolean
+
+Include the following public methods :Create a constructor that initializes all the data 
+
+memberspublicHotelRoom(StringhotelName,IntegernumberOfSqFeet,BooleanhasTV,BooleanhasWifi)
+
+"calculateTariff" –Calculates cost using the number of sq feets and cost per sq feet and returns an Integer.
+
+"getRatePerSqFeet" -This method returns an Integer. In this case, it always returns 0 
+
+Create a class DeluxeRoom that extends HotelRoom
+
+Include the following protected attributes / data members:
+
+ratePerSqFeet –of type Integer.
+
+Include the following public methods :Include a constructor that sets ratePerSqFeet as 10.
+
+publicHotelRoom(StringhotelName,IntegernumberOfSqFeet,BooleanhasTV,BooleanhasWifi)
+
+"getRatePerSqFeet" –returns (ratePerSqFeet + 2) if wifi is present, else returns ratePerSqFeet.
+
+Create a class DeluxeACRoom that extends DeluxeRoom Include the following public methods :
+
+Include a constructor that sets ratePerSqFeet as 12.
+
+Create a class SuiteACRoom that extends HotelRoom Include the following private attributes / data members:
+
+ratePerSqFeet –of type Integer.Include the following public methods :Include a constructor that sets ratePerSqFeet as 15.
+
+publicHotelRoom(StringhotelName,IntegernumberOfSqFeet,BooleanhasTV,BooleanhasWifi)
+
+getRatePerSqFeet –returns (ratePerSqFeet + 2) if wifi is present, else returns ratePerSqFeet.
+
+Create a Main class to test the above classes.
+
+**Sample Input Output 1:**
+
+Hotel Tariff Calculator
+
+1. Deluxe Room
+
+2. Deluxe AC Room
+
+3. Suite AC Room
+
+Select Room Type:1
+
+Hotel Name:Taj
+
+Room Square Feet Area:3200
+
+Room has TV (yes/no):yes
+
+Room has Wifi (yes/no):yes
+
+Room Tariff per day is:38400
