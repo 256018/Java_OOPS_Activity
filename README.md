@@ -1,3 +1,3 @@
 # Java_OOPS_Activity
 
-![alt text](https://github.com/[256018]/[Java_OOPS_Activity]/oops.jpg?raw=true
+![Java-OOPS](https://github.com/256018/Java_OOPS_Activity/blob/master/oops.jpg)
